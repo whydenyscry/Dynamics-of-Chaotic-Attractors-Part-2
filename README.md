@@ -128,3 +128,33 @@ $$
 <p align="center">
   <img src="images_png/The_Kingni_Pham_Jafari_Attractor.png"/>
 </p>
+
+## The Vaidyanathan Attractor
+**Reference:**\
+[Vaidyanathan, S. (2015). Analysis, properties and control of an eight-term 3-D chaotic system with an exponential nonlinearity. International Journal of Modelling, Identification and Control, 23(2), 164.](https://doi.org/10.1504/ijmic.2015.068871)
+
+$$ 
+\begin{cases}
+	\frac{\mathrm{d}x}{\mathrm{d}t} = \alpha\left(y-x\right) + yz	\\
+	\frac{\mathrm{d}y}{\mathrm{d}t} = \beta x - \varsigma xz, \\
+	\frac{\mathrm{d}z}{\mathrm{d}t} = \mathrm{e}^{xy}-\delta z+x^2,
+\end{cases}
+$$
+
+$$
+\begin{bmatrix}
+	\alpha\\
+	\beta\\
+	\varsigma\\
+	\delta
+\end{bmatrix} = \begin{bmatrix}
+	11\\
+	40\\
+	0.4\\
+	9
+\end{bmatrix}.
+$$
+
+<p align="center">
+  <img src="images_png/The_Vaidyanathan_Attractor.png"/>
+</p>
