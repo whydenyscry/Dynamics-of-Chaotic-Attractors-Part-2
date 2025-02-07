@@ -108,3 +108,23 @@ $$
 <p align="center">
   <img src="images_png/The_Zhou_Wang_Wu_Attractor.png"/>
 </p>
+
+## The Kingni—Pham—Jafari Attractor
+**Reference:**\
+[Kingni, S. T., Pham, V.-T., Jafari, S., Kol, G. R., & Woafo, P. (2016). Three-Dimensional Chaotic Autonomous System with a Circular Equilibrium: Analysis, Circuit Implementation and Its Fractional-Order Form. Circuits, Systems, and Signal Processing, 35(6), 1933–1948.](https://doi.org/10.1007/s00034-016-0259-x)
+
+$$ 
+\begin{cases}
+	\frac{\mathrm{d}x}{\mathrm{d}t} = z	\\
+	\frac{\mathrm{d}y}{\mathrm{d}t} = z^3 + z^2 + 3xz, \\
+	\frac{\mathrm{d}z}{\mathrm{d}t} = x^2+y^2-a^2-4yz^2,
+\end{cases}
+$$
+
+$$
+\alpha=0.991.
+$$
+
+<p align="center">
+  <img src="images_png/The_Kingni_Pham_Jafari_Attractor.png"/>
+</p>
