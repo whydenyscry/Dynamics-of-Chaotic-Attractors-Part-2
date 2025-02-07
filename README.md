@@ -80,3 +80,32 @@ $$
 <p align="center">
   <img src="images_png/The_Sanum_Srisuchinwong_Attractor.png"/>
 </p>
+
+## The Zhou—Wang—Wu Attractor
+**Reference:**\
+[Zhou, W., Wang, Z., Wu, M., Zheng, W., & Weng, J. (2015). Dynamics analysis and circuit implementation of a new three-dimensional chaotic system. Optik - International Journal for Light and Electron Optics, 126(7-8), 765–768.](https://doi.org/10.1016/j.ijleo.2015.02.029)
+
+$$ 
+\begin{cases}
+	\frac{\mathrm{d}x}{\mathrm{d}t} = \alpha y	\\
+	\frac{\mathrm{d}y}{\mathrm{d}t} = -z\text{sgn}\left(x\right) - \varsigma y, \\
+	\frac{\mathrm{d}z}{\mathrm{d}t} = \beta x^2 -1,
+\end{cases}
+$$
+
+$$
+\begin{bmatrix}
+	\alpha\\
+	\beta\\
+	\varsigma
+\end{bmatrix} = \begin{bmatrix}
+	14\\
+	3\\
+	1
+\end{bmatrix}.\]
+
+$$
+
+<p align="center">
+  <img src="images_png/The_Zhou_Wang_Wu_Attractor.png"/>
+</p>
