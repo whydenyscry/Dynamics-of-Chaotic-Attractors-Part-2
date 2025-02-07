@@ -1,6 +1,8 @@
 # Dynamics of Chaotic Attractors
 
-This is a sequel to my repository [Dynamics of Nonlinear Attractors](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors) on which I have reached the limit for using mathematical expressions. This repository will also only consider 3D attractors, but I still plan to create a separate repository for hyperchaotic attractors.
+This is a sequel to my repository [Dynamics of Nonlinear Attractors](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors) on which I have reached the limit for using mathematical expressions. This repository will also only consider 3D attractors.
+
+A gallery of high-dimensional hyperchaotic attractors will be in the [Dynamics of Hyperchaotic Attractors](https://github.com/whydenyscry/Dynamics-of-Hyperchaotic-Attractors) repository.
 
 The plots are also available on Pinterest and Behance:
 
