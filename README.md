@@ -102,8 +102,7 @@ $$
 	14\\
 	3\\
 	1
-\end{bmatrix}.\]
-
+\end{bmatrix}.
 $$
 
 <p align="center">
