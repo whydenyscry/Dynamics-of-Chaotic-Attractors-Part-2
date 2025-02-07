@@ -61,3 +61,22 @@ $$
   <img src="images_png/The_Xu_Wang_Attractor.png"/>
 </p>
 
+## The Sanum—Srisuchinwong Attractor
+**Reference:**\
+[Sanum, W., & Srisuchinwong, B. (2012). Highly Complex Chaotic System with Piecewise Linear Nonlinearity and Compound Structures. Journal of Computers, 7(4).](https://doi.org/10.4304/jcp.7.4.1041-1047)
+
+$$ 
+\begin{cases}
+	\frac{\mathrm{d}x}{\mathrm{d}t} = y-x	\\
+	\frac{\mathrm{d}y}{\mathrm{d}t} = -z\tanh x, \\
+	\frac{\mathrm{d}z}{\mathrm{d}t} = -\alpha + xy +|y|,
+\end{cases}
+$$
+
+$$
+\alpha = 60.
+$$
+
+<p align="center">
+  <img src="images_png/The_Sanum_Srisuchinwong_Attractor.png"/>
+</p>
