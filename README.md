@@ -1,6 +1,6 @@
 # Dynamics of Chaotic 3D Attractors: Part 2
 
-This is a sequel to my repository [Dynamics of Chaotic 3D Attractors: Part 1](https://github.com/whydenyscry/Dynamics-of-Chaotic-Attractors-Part-1)on which I have reached the limit for using mathematical expressions. This repository will also only consider 3D attractors.
+This is a sequel to my repository [Dynamics of Chaotic 3D Attractors: Part 1](https://github.com/whydenyscry/Dynamics-of-Chaotic-Attractors-Part-1) on which I have reached the limit for using mathematical expressions. This repository will also only consider 3D attractors.
 
 The plots are also available on Pinterest and Behance:
 
