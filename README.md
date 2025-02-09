@@ -1,13 +1,16 @@
-# Dynamics of Chaotic Attractors
+# Dynamics of Chaotic 3D Attractors: Part 2
 
-This is a sequel to my repository [Dynamics of Nonlinear Attractors](https://github.com/whydenyscry/Dynamics-of-Nonlinear-Attractors) on which I have reached the limit for using mathematical expressions. This repository will also only consider 3D attractors.
-
-A gallery of high-dimensional hyperchaotic attractors will be in the [Dynamics of Hyperchaotic Attractors](https://github.com/whydenyscry/Dynamics-of-Hyperchaotic-Attractors) repository.
+This is a sequel to my repository [Dynamics of Chaotic 3D Attractors: Part 1](https://github.com/whydenyscry/Dynamics-of-Chaotic-Attractors-Part-1)on which I have reached the limit for using mathematical expressions. This repository will also only consider 3D attractors.
 
 The plots are also available on Pinterest and Behance:
 
 <a href="https://www.pinterest.com/whydenyscry/when-math-and-art-came-face-to-face/" target="_blank"><img src="https://brandslogos.com/wp-content/uploads/images/large/pinterest-logo-black-and-white-4.png" style="width: 50px; height: 50px;"></a>
 <a href="https://www.behance.net/whydenyscry" target="_blank"><img src="https://www.iconsdb.com/icons/preview/white/behance-5-xxl.png" style="width: 50px; height: 50px;"></a>
+
+## Relevant Repositories:
+- [Dynamics of Chaotic 3D Attractors: Part 1](https://github.com/whydenyscry/Dynamics-of-Chaotic-Attractors-Part-1)
+- [Dynamics Of Hyperchaotic High-Dimensional Attractors](https://github.com/whydenyscry/Dynamics-of-Hyperchaotic-Attractors)
+
 
 ## The Sambas—Benkouider—Kaçar Attractor
 **Reference:**\
