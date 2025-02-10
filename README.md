@@ -198,3 +198,30 @@ $$
   <img src="images_png/The_Zhang_Han_Attractor.png"/>
 </p>
 
+## The Tuna—Koyuncu—Fidan Attractor
+**Reference:**\
+[Tuna, M., Koyuncu, I., Fidan, C. B., & Pehlivan, I. (2015). Real time implementation of a novel chaotic generator on FPGA. 2015 23nd Signal Processing and Communications Applications Conference (SIU).](https://doi.org/10.1109/siu.2015.7129921)
+
+$$ 
+\begin{cases}
+	\frac{\mathrm{d}x}{\mathrm{d}t} = y\left(z-\alpha\right)	\\
+	\frac{\mathrm{d}y}{\mathrm{d}t} = y\left(z-\alpha\right)-x\left(z+\alpha\right), \\
+	\frac{\mathrm{d}z}{\mathrm{d}t} =-y\left(\alpha x - y\right)-\beta\left(z-\alpha\right),
+\end{cases}
+$$
+
+$$
+\begin{bmatrix}
+	\alpha\\
+	\beta
+\end{bmatrix} = \begin{bmatrix}
+	1.3\\
+	4
+\end{bmatrix}.
+$$
+
+<p align="center">
+  <img src="images_png/The_Tuna_Koyuncu_Fidan_Attractor.png"/>
+</p>
+
+
