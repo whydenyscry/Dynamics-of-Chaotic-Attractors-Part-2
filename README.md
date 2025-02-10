@@ -163,3 +163,38 @@ $$
 <p align="center">
   <img src="images_png/The_Vaidyanathan_Attractor.png"/>
 </p>
+
+## The Zhang—Han Attractor
+**Reference:**\
+[Zhang, M., & Han, Q. (2016). Dynamic analysis of an autonomous chaotic system with cubic nonlinearity. Optik, 127(10), 4315–4319.](https://doi.org/10.1016/j.ijleo.2016.01.142)
+
+$$ 
+\begin{cases}
+	\frac{\mathrm{d}x}{\mathrm{d}t} = -\alpha x + \beta yz	\\
+	\frac{\mathrm{d}y}{\mathrm{d}t} = -\varsigma y ^3 + \delta xz, \\
+	\frac{\mathrm{d}z}{\mathrm{d}t} =\varepsilon z - \vartheta xy,
+\end{cases}
+$$
+
+$$
+\begin{bmatrix}
+	\alpha\\
+	\beta\\
+	\varsigma\\
+	\delta\\
+	\varepsilon\\
+	\vartheta
+\end{bmatrix} = \begin{bmatrix}
+	2\\
+	10\\
+	6\\
+	3\\
+	3\\
+	1
+\end{bmatrix}.
+$$
+
+<p align="center">
+  <img src="images_png/The_Zhang_Han_Attractor.png"/>
+</p>
+
