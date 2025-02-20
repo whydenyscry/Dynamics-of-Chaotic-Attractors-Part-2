@@ -225,3 +225,32 @@ $$
 </p>
 
 
+## The Li—Pehlivan—Sprott Attractor
+**Reference:**\
+
+[Li, C., Pehlivan, İ., & Sprott, J. C. (2015). Amplitude-phase control of a novel chaotic attractor. TURKISH JOURNAL OF ELECTRICAL ENGINEERING & COMPUTER SCIENCES, 24, 1–11.](https://doi.org/10.3906/elk-1301-55)
+$$ 
+\begin{cases}
+	\frac{\mathrm{d}x}{\mathrm{d}t} = x-yz,	\\
+	\frac{\mathrm{d}y}{\mathrm{d}t} =-\alpha y + xz, \\
+	\frac{\mathrm{d}z}{\mathrm{d}t} = -\beta y - \varsigma z + xy,
+\end{cases}
+$$
+
+$$
+\begin{bmatrix}
+	\alpha\\
+	\beta\\
+	\varsigma
+\end{bmatrix} = \begin{bmatrix}
+	2.5\\
+	3.75\\
+	1.125
+\end{bmatrix}.
+$$
+
+<p align="center">
+  <img src="images_png/The_Li_Pehlivan_Sprott_Attractor.png"/>
+</p>
+
+
