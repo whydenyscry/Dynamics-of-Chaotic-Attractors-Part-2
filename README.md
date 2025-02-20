@@ -227,8 +227,8 @@ $$
 
 ## The Li—Pehlivan—Sprott Attractor
 **Reference:**\
-
 [Li, C., Pehlivan, İ., & Sprott, J. C. (2015). Amplitude-phase control of a novel chaotic attractor. TURKISH JOURNAL OF ELECTRICAL ENGINEERING & COMPUTER SCIENCES, 24, 1–11.](https://doi.org/10.3906/elk-1301-55)
+
 $$ 
 \begin{cases}
 	\frac{\mathrm{d}x}{\mathrm{d}t} = x-yz,	\\
