@@ -18,9 +18,9 @@ The plots are also available on Pinterest and Behance:
 
 $$
 \begin{cases}
-	\dfrac{\mathrm{d}x}{\mathrm{d}t} = \alpha\left(y-x\right) + yz,	\\
-	\dfrac{\mathrm{d}y}{\mathrm{d}t} = x\left(\beta-z\right)-1, \\
-	\dfrac{\mathrm{d}z}{\mathrm{d}t} = x^2+xz-\varsigma z,
+	\dot{x} = \alpha\left(y-x\right) + yz,	\\
+	\dot{y} = x\left(\beta-z\right)-1, \\
+	\dot{z} = x^2+xz-\varsigma z,
 \end{cases}
 $$
 
@@ -46,9 +46,9 @@ $$
 
 $$ 
 \begin{cases}
-	\dfrac{\mathrm{d}x}{\mathrm{d}t} = \ln\left(\alpha+\mathrm{e}^{y-x}\right)	\\
-	\dfrac{\mathrm{d}y}{\mathrm{d}t} = xz, \\
-	\dfrac{\mathrm{d}z}{\mathrm{d}t} = \beta -xy,
+	\dot{x} = \ln\left(\alpha+\mathrm{e}^{y-x}\right)	\\
+	\dot{y} = xz, \\
+	\dot{z} = \beta -xy,
 \end{cases}
 $$
 
@@ -72,9 +72,9 @@ $$
 
 $$ 
 \begin{cases}
-	\dfrac{\mathrm{d}x}{\mathrm{d}t} = y-x	\\
-	\dfrac{\mathrm{d}y}{\mathrm{d}t} = -z\tanh x, \\
-	\dfrac{\mathrm{d}z}{\mathrm{d}t} = -\alpha + xy +|y|,
+	\dot{x} = y-x	\\
+	\dot{y} = -z\tanh x, \\
+	\dot{z} = -\alpha + xy +|y|,
 \end{cases}
 $$
 
@@ -92,9 +92,9 @@ $$
 
 $$ 
 \begin{cases}
-	\dfrac{\mathrm{d}x}{\mathrm{d}t} = \alpha y	\\
-	\dfrac{\mathrm{d}y}{\mathrm{d}t} = -z\text{sgn}\left(x\right) - \varsigma y, \\
-	\dfrac{\mathrm{d}z}{\mathrm{d}t} = \beta x^2 -1,
+	\dot{x} = \alpha y	\\
+	\dot{y} = -z\text{sgn}\left(x\right) - \varsigma y, \\
+	\dot{z} = \beta x^2 -1,
 \end{cases}
 $$
 
@@ -120,9 +120,9 @@ $$
 
 $$ 
 \begin{cases}
-	\dfrac{\mathrm{d}x}{\mathrm{d}t} = z	\\
-	\dfrac{\mathrm{d}y}{\mathrm{d}t} = z^3 + z^2 + 3xz, \\
-	\dfrac{\mathrm{d}z}{\mathrm{d}t} = x^2+y^2-a^2-4yz^2,
+	\dot{x} = z	\\
+	\dot{y} = z^3 + z^2 + 3xz, \\
+	\dot{z} = x^2+y^2-a^2-4yz^2,
 \end{cases}
 $$
 
@@ -140,9 +140,9 @@ $$
 
 $$ 
 \begin{cases}
-	\dfrac{\mathrm{d}x}{\mathrm{d}t} = \alpha\left(y-x\right) + yz	\\
-	\dfrac{\mathrm{d}y}{\mathrm{d}t} = \beta x - \varsigma xz, \\
-	\dfrac{\mathrm{d}z}{\mathrm{d}t} = \mathrm{e}^{xy}-\delta z+x^2,
+	\dot{x} = \alpha\left(y-x\right) + yz	\\
+	\dot{y} = \beta x - \varsigma xz, \\
+	\dot{z} = \mathrm{e}^{xy}-\delta z+x^2,
 \end{cases}
 $$
 
@@ -170,9 +170,9 @@ $$
 
 $$ 
 \begin{cases}
-	\dfrac{\mathrm{d}x}{\mathrm{d}t} = -\alpha x + \beta yz	\\
-	\dfrac{\mathrm{d}y}{\mathrm{d}t} = -\varsigma y ^3 + \delta xz, \\
-	\dfrac{\mathrm{d}z}{\mathrm{d}t} =\varepsilon z - \vartheta xy,
+	\dot{x} = -\alpha x + \beta yz	\\
+	\dot{y} = -\varsigma y ^3 + \delta xz, \\
+	\dot{z} =\varepsilon z - \vartheta xy,
 \end{cases}
 $$
 
@@ -204,9 +204,9 @@ $$
 
 $$ 
 \begin{cases}
-	\dfrac{\mathrm{d}x}{\mathrm{d}t} = y\left(z-\alpha\right)	\\
-	\dfrac{\mathrm{d}y}{\mathrm{d}t} = y\left(z-\alpha\right)-x\left(z+\alpha\right), \\
-	\dfrac{\mathrm{d}z}{\mathrm{d}t} =-y\left(\alpha x - y\right)-\beta\left(z-\alpha\right),
+	\dot{x} = y\left(z-\alpha\right)	\\
+	\dot{y} = y\left(z-\alpha\right)-x\left(z+\alpha\right), \\
+	\dot{z} =-y\left(\alpha x - y\right)-\beta\left(z-\alpha\right),
 \end{cases}
 $$
 
@@ -231,9 +231,9 @@ $$
 
 $$ 
 \begin{cases}
-	\dfrac{\mathrm{d}x}{\mathrm{d}t} = x-yz,	\\
-	\dfrac{\mathrm{d}y}{\mathrm{d}t} =-\alpha y + xz, \\
-	\dfrac{\mathrm{d}z}{\mathrm{d}t} = -\beta y - \varsigma z + xy,
+	\dot{x} = x-yz,	\\
+	\dot{y} =-\alpha y + xz, \\
+	\dot{z} = -\beta y - \varsigma z + xy,
 \end{cases}
 $$
 
